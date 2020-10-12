@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "apples",
+      "price": "$2.99",
+      "quantity": 14,
+      "id": 1
+    },
+    {
+      "name": "Oranges",
+      "price": "$1.99",
+      "quantity": 5,
+      "id": 2
+    },
+    {
+      "name": "Chicken",
+      "price": "$10.00",
+      "quantity": 10,
+      "id": 3
+    },
+    {
+      "name": "Bananas",
+      "price": "$2.50",
+      "quantity": 4,
+      "id": 4
+    },
+    {
+      "name": "Rice",
+      "price": "$5.99",
+      "quantity": 100,
+      "id": 5
+    },
+    {
+      "name": "Beed",
+      "price": "$14.99",
+      "quantity": 10,
+      "id": 6
+    },
+    {
+      "name": "Bread",
+      "price": "$2.99",
+      "quantity": 98,
+      "id": 7
+    },
+    {
+      "name": "newProd",
+      "price": "$1.99",
+      "quantity": "12",
+      "id": 8
+    }
+  ]
+}
